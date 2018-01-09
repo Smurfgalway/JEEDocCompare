@@ -23,5 +23,18 @@ Tomcat is developed and maintained by an open community of developers under the 
 db4o (database for objects) was an embeddable open source object database for Java and .NET developers. It was developed, commercially licensed and supported by Actian. db4o represents an object-oriented database model. One of its main goals is to provide an easy and native interface to persistence for object oriented programming languages. Development with db4o database does not require a separate data model creation, the application’s class model defines the structure of the data. db4o attempts to avoid the object/relational impedance mismatch by eliminating the relational layer from a software project. db4o is written in Java and .NET and provides the respective APIs. It can run on any operating system that supports Java or .NET. It is offered under licenses including GPL, the db4o Opensource Compatibility License (dOCL), and a commercial license for use in proprietary software.
 
 ## How To Run
+1. Download the zip file of the repository.
+2. unzip the zip folder.
+3. Open eclispe and create a new dynamic web app with the name "AOOPProject2018"
+4. open the containing folder that you unzipped and drag across the need resources.
+5. these resources are the everything in the SRC folder, the txt files folder, the contents of the web content folder.
 
+## UML
+![UML](https://github.com/Smurfgalway/JEEDocCompare/blob/master/UML.png "UML")
 ## References
+- <h3> ADVANCED OBJECT ORIENTED SOFTWARE DEVELOPMENT Moodle/Learn Online Page</h3>
+- <h3> <a href="https://stackoverflow.com/"> Stack OverFlow</a></h3>
+- <h3> <a href=https://en.wikipedia.org/wiki/Main_Page> Wikipedia </a></h3>
+- <h3> </h3>
+- <h3> </h3>
+- <h3> </h3>
